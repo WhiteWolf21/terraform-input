@@ -1,4 +1,4 @@
-# Static webapp template (v0.1)
+# Static webapp template (v0.2)
 
 A template repository for building static webapps.
 
